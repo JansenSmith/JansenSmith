@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋🏼🦾:octocat:
+
+### Some quick stats
+
+  [![JansenSmith's GitHub stats](https://github-readme-stats-jansensmith.vercel.app/api?username=jansensmith)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![JansenSmith's Top Langs](https://github-readme-stats-jansensmith.vercel.app/api/top-langs/?username=jansensmith&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **JansenSmith/JansenSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
