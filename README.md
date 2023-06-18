@@ -1,4 +1,4 @@
-### Hi there 👋🏼🦾:octocat:
+### Hi there! 👋🏼🦾:octocat:
 
 ### Some quick stats
 
